@@ -1,5 +1,4 @@
 import React from "react";
-import imageHeader from "../../public/Desain tanpa judul (2).png"
 export default function AboutMe() {
     return(
         <div>
